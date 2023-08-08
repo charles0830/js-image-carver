@@ -60,5 +60,5 @@ But also we need to keep in mind that the Seam Carving algorithm is not a silver
 - [ ] Real-time resizing
 
 ## Author
- 
+
 - [@trekhleb](https://trekhleb.dev)
