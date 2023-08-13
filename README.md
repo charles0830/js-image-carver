@@ -54,11 +54,12 @@ But also we need to keep in mind that the Seam Carving algorithm is not a silver
 - [x] Objects removal during resizing
 
 ## Plans
-
+ 
 - [ ] Image upscaling
 - [ ] Upscale the image to its original size after objects removal
 - [ ] Real-time resizing
-
-## Author
  
+## Author
+
 - [@trekhleb](https://trekhleb.dev)
+ 
