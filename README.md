@@ -45,21 +45,21 @@ The same goes for the ocean waves. The algorithm preserved the wave structure wi
 ![Resizing demo with more complex backgrounds](public/demo-02.png)
 
 But also we need to keep in mind that the Seam Carving algorithm is not a silver bullet, and it may fail to resize the images where most of the pixels are edges (looks important to the algorithm). In this case, it starts distorting even the important parts of the image. In the example below the content-aware image resizing looks pretty similar to a straightforward scaling since for the algorithm all the pixels look important, and it is hard for it to distinguish Van Gogh's face from the background.
-
+  
 ![Example when the algorithm does not work as expected](public/demo-03.png)
-
+  
 ## Features
-
+  
 - [x] Downscaling of the images without distorting their content-intensive parts
 - [x] Objects removal during resizing
-
+  
 ## Plans
- 
+  
 - [ ] Image upscaling
 - [ ] Upscale the image to its original size after objects removal
 - [ ] Real-time resizing
- 
+  
 ## Author
-
+  
 - [@trekhleb](https://trekhleb.dev)
  
