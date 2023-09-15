@@ -62,3 +62,4 @@ But also we need to keep in mind that the Seam Carving algorithm is not a silver
 <a href="https://www.buymeacoffee.com/chberry830"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
 
  
+Now, feel free to use it! 
