@@ -62,4 +62,35 @@ But also we need to keep in mind that the Seam Carving algorithm is not a silver
 ## Author
   
 - [@trekhleb](https://trekhleb.dev)
- 
+ Job details
+Needed FullStack Developer with Bubble and React experience
+Full Stack Development
+Posted 10 minutes ago
+Worldwide
+We are looking for an experienced fullstack developer with good experience in both Bubble and React to help us on multiple tasks. For now we are trying to embed a Bubble form inside a React component. The successful candidate will be responsible for developing and maintaining our application, ensuring that it meets the highest standards of quality and functionality.
+
+The ideal candidate should have strong experience working with both Bubble and React application development. You should have excellent problem-solving skills and be able to work independently as well as part of a team.
+
+To apply for this position, please submit a proposal detailing your experience and how you can help with the project. Please include links to any relevant past completed projects that demonstrate your expertise in this area.
+
+We are looking for someone who can start work immediately, and who is committed to delivering a high-quality product within the specified timeframe.
+More than 30 hrs/week
+Hourly
+1 to 3 months
+Project Length
+Expert
+I am willing to pay higher rates for the most experienced freelancers
+$25.00
+
+-
+
+$50.00
+
+Hourly
+
+Contract-to-hire opportunity
+This lets talent know that this job could become full time.
+Learn more
+Project Type:  Ongoing project
+Skills and Expertise
+React Bubble.io
